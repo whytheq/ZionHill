@@ -1,0 +1,39 @@
+{
+  "ContentRoots": [
+    "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\"
+  ],
+  "Root": {
+    "Children": {
+      "img": {
+        "Children": {
+          "Elfenblume_(Epimedium_x_versicolor).jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "img\\Elfenblume_(Epimedium_x_versicolor).jpg"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "index.html": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "index.html"
+        },
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "Hash": "tCuNB4NshQX4pADCA3mLJeQs6qh9tX4SKjpoi7eH+7E=",
+  "Source": "ZionHill",
+  "BasePath": "_content/ZionHill",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "RelatedManifests": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZionHill\\wwwroot",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "BasePath": "_content/ZionHill",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\img\\Elfenblume_(Epimedium_x_versicolor).jpg",
+      "SourceId": "ZionHill",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "BasePath": "_content/ZionHill",
+      "RelativePath": "img/Elfenblume_(Epimedium_x_versicolor).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Elfenblume_(Epimedium_x_versicolor).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\index.html",
+      "SourceId": "ZionHill",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "BasePath": "_content/ZionHill",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
