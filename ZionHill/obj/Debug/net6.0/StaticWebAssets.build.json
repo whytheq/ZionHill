@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tCuNB4NshQX4pADCA3mLJeQs6qh9tX4SKjpoi7eH+7E=",
+  "Hash": "0sQiGO1QVEzmtUu4avBLYDvO4HJYhKjKZMsOUZnUs7k=",
   "Source": "ZionHill",
   "BasePath": "_content/ZionHill",
   "Mode": "Default",
@@ -9,17 +9,34 @@
   "DiscoveryPatterns": [
     {
       "Name": "ZionHill\\wwwroot",
-      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\",
       "BasePath": "_content/ZionHill",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\img\\Elfenblume_(Epimedium_x_versicolor).jpg",
+      "Identity": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\css\\site.css",
       "SourceId": "ZionHill",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\",
+      "BasePath": "_content/ZionHill",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\img\\Elfenblume_(Epimedium_x_versicolor).jpg",
+      "SourceId": "ZionHill",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\",
       "BasePath": "_content/ZionHill",
       "RelativePath": "img/Elfenblume_(Epimedium_x_versicolor).jpg",
       "AssetKind": "All",
@@ -33,10 +50,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Elfenblume_(Epimedium_x_versicolor).jpg"
     },
     {
-      "Identity": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\img\\Helleborus_odorus.jpg",
       "SourceId": "ZionHill",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\",
+      "BasePath": "_content/ZionHill",
+      "RelativePath": "img/Helleborus_odorus.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Helleborus_odorus.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\index.html",
+      "SourceId": "ZionHill",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\",
       "BasePath": "_content/ZionHill",
       "RelativePath": "index.html",
       "AssetKind": "All",

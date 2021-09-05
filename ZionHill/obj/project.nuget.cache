@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vk+wkAiBVB+DCYckuenYLXpwAoPv4oG6vGh3LJqDDKl7vOyLMi3l3oXz0JvaWjAhVikqltegdP7kN6EmAH6Y+Q==",
+  "dgSpecHash": "bfCBC1/Jz7oiL1YmADEoP32gVKkxgTHojUzdJRt7E/my5iA0pdgY45UsuE6XAifQDH4MoSeZW/4krjpyQ83QnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\ZionHill.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\ZionHill.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

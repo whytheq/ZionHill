@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\ZionHill.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\ZionHill.csproj",
       "projectName": "ZionHill",
-      "projectPath": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\ZionHill.csproj",
+      "projectPath": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\ZionHill.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

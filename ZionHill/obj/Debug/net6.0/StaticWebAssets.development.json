@@ -1,9 +1,23 @@
 {
   "ContentRoots": [
-    "C:\\Users\\Jason\\Desktop\\PLURALSIGHT\\aspnetcore-mvc-efcore-bootstrap-angular-web\\ZionHill\\wwwroot\\"
+    "C:\\Users\\Jason\\Desktop\\ZionHill\\ZionHill\\wwwroot\\"
   ],
   "Root": {
     "Children": {
+      "css": {
+        "Children": {
+          "site.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css\\site.css"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "img": {
         "Children": {
           "Elfenblume_(Epimedium_x_versicolor).jpg": {
@@ -11,6 +25,14 @@
             "Asset": {
               "ContentRootIndex": 0,
               "SubPath": "img\\Elfenblume_(Epimedium_x_versicolor).jpg"
+            },
+            "Patterns": null
+          },
+          "Helleborus_odorus.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "img\\Helleborus_odorus.jpg"
             },
             "Patterns": null
           }
