@@ -4,12 +4,13 @@
 <head>
     <title>Zion Hill</title>
     <link href="css/site.css" rel="stylesheet" />
+    <script src="lib/jquery/dist/jquery.js"></script>
 </head>
 
 <body>
     <h2>Welcome to Zion Hill Gardens</h2>
-   
-    <div class="PlantList" >
+
+    <div class="PlantList">
         <p>
             This is a site about <strong>Zion Hill Gardens</strong> and its plants
         </p>
@@ -24,42 +25,45 @@
         </ul>
 
         <div class="tooltip">
-          <img src="img/Elfenblume_(Epimedium_x_versicolor).jpg" height="275" width="400" />
-          <span class="tooltiptext">
-            <p style="font-size: x-small">
-                By Maja Dumat - Flickr: Elfenblume (Epimedium x versicolor), CC BY 2.0,
-                https://commons.wikimedia.org/w/index.php?curid=20840415
-            </p>
-          </span>
+            <img src="img/Elfenblume_(Epimedium_x_versicolor).jpg" height="275" width="400" />
+            <span class="tooltiptext">
+                <p style="font-size: x-small">
+                    By Maja Dumat - Flickr: Elfenblume (Epimedium x versicolor), CC BY 2.0,
+                    https://commons.wikimedia.org/w/index.php?curid=20840415
+                </p>
+            </span>
         </div>
-        
+
         <div class="tooltip">
-        <img src="img/Helleborus_odorus.jpg" height="275" width="400" />
-        <span class="tooltiptext">
-        <p style="font-size: x-small">
-            By Claire H. from New York City, USA - HelleboreUploaded by Rsocol, CC
-            BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=6483482
-        </p>
-        </span>
+            <img src="img/Helleborus_odorus.jpg" height="275" width="400" />
+            <span class="tooltiptext">
+                <p style="font-size: x-small">
+                    By Claire H. from New York City, USA - HelleboreUploaded by Rsocol, CC
+                    BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=6483482
+                </p>
+            </span>
         </div>
-        
+
     </div>
-   
+
     <br />
     <div id="formdiv">
         <form>
             <label>Your Name:</label><br />
-            <input "/><br /><br />
-        <label>Email:</label><br />
-        <input /><br /><br />
-        <label>Password:</label><br />
-        <input type=" password" /><br />
+            <input " /><br /><br />
+            <label>Email:</label><br />
+            <input /><br /><br />
+            <label>Password:</label><br />
+            <input type=" password" /><br />
             <br />
             <label>Message:</label><br />
             <textarea rows="7" cols="75" spellcheck="true"> </textarea><br />
             <input type="submit" value="Send Message" />
         </form>
     </div>
+    <button id="ToggleFormButton">Toggle form</button>
+    <script src="js/index.js"></script>
 </body>
+
 
 </html>
