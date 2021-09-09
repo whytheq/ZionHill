@@ -1,17 +1,20 @@
-/*html, 
 body {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}*/
-
-#body {
     font-family: Arial, Helvetica, sans-serif;
-    width: 100%;
-    height: 100%;
 }
+
+
+
+    #login-block .toggle-item {
+        text-align: left;
+        cursor:pointer;
+    }
+
+    #login-block .popup-form {
+        background-color: grey;
+        border: solid 1px black;
+        padding: 2px;
+        font-size: 10px;
+    }
 
 
 
@@ -21,36 +24,38 @@ textarea {
     width: 400px;
 }
 
-input[type=submit] {
-    width: auto;
-}
+    input[type=submit] {
+        width: auto;
+    }
 
 label {
     font-size: 17px;
 }
 
-#formdiv{
-    background-color:rgb(143, 181, 240)
+
+
+#formdiv {
+    background-color: rgb(143, 181, 240)
 }
 
-#formdiv input[type=submit]{
-    background-color: green;
-    color:white;
+    #formdiv input[type=submit] {
+        background-color: green;
+        color: white;
+    }
+
+
+ul.specialist-plants {
+    font-size: medium;
 }
 
-
-ul.specialist-plants{
-    font-size:medium;
-}
-
-ul.specialist-plants li{
-    color: blue;
-    list-style-type:disc;
-}
+    ul.specialist-plants li {
+        color: blue;
+        list-style-type: disc;
+    }
 
 
 
-.PlantList{
+.PlantList {
     margin: 15px;
     border: 3px solid grey;
     padding: 5px;
@@ -59,38 +64,39 @@ ul.specialist-plants li{
     background-color: bisque;
 }
 
-.PlantList img{
-    margin: 15px;
-    border: 2px solid rgb(212, 212, 212);
-    padding: 5px;
-    display: inline-block;
-    border-radius: 5px;
-}
+    .PlantList img {
+        margin: 15px;
+        border: 2px solid rgb(212, 212, 212);
+        padding: 5px;
+        display: inline-block;
+        border-radius: 5px;
+    }
 
 
 
-/* following are for the tooltips that hover over the pictures */
 .tooltip {
     position: relative;
     display: inline-block;
-    /* border-bottom: 1px dotted black; */
-  }
+}
 
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 275px;
-    background-color: black;
-    opacity: 0.6;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-  
-    /* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-  }
+    .tooltip .tooltiptext {
+        font-size:x-small;
+        visibility: hidden;
+        width: 275px;
+        background-color: black;
+        opacity: 0.6;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+/*         Position the tooltip */
+        position: absolute;
+        z-index: 1;
+    }
 
-  .tooltip:hover .tooltiptext {
-    visibility: visible;
-  }
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+
+
+
