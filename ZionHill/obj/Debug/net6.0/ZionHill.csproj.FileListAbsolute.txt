@@ -48,3 +48,4 @@ C:\Users\Jason\Desktop\ZionHill\ZionHill\obj\Debug\net6.0\ref\ZionHill.dll
 C:\Users\Jason\Desktop\ZionHill\ZionHill\obj\Debug\net6.0\ZionHill.pdb
 C:\Users\Jason\Desktop\ZionHill\ZionHill\obj\Debug\net6.0\ZionHill.genruntimeconfig.cache
 C:\Users\Jason\Desktop\ZionHill\ZionHill\bin\Debug\net6.0\libman.json
+C:\Users\Jason\Desktop\ZionHill\ZionHill\obj\Debug\net6.0\ZionHill.csproj.AssemblyReference.cache

@@ -2,9 +2,6 @@ var x = 0;
 var s = "hello pluralsight"
 
 
-
-
-
 var button =$("#ToggleFormButton");
 button.on("click", function () {
     if (!$("#formdiv").is(":visible")) {
@@ -15,4 +12,7 @@ button.on("click", function () {
 })
 
 
-var plantInfo = document.getElementsByClassName("specialist-plants");
+var plantInfo = $(".specialist-plants li");
+plantInfo.on("click", function () {
+    console.log("you clicked on " + $(this).text())
+})
