@@ -3,17 +3,25 @@ body {
 }
 
 
+.popupForm label{
+    width:150px;
+    display: inline-block;
+}
 
-    #login-block .toggle-item {
-        text-align: left;
-        cursor:pointer;
-    }
+.popupForm input[type=checkbox], .popup-form input[type=submit] {
+    width: auto;
+}
+#toggleItem {
+    text-align: left;
+    cursor: pointer;
+}
 
-    #login-block .popup-form {
+    #loginBlock .popupForm {
         background-color: grey;
         border: solid 1px black;
         padding: 2px;
         font-size: 10px;
+        display:inline-block;
     }
 
 

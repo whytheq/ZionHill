@@ -34,9 +34,10 @@
         </div>
     </div>
 
-    <div id="login-block">
-        <div class="toggle-item">Login</div>
-        <div class="popup-form">
+    <!--<button id="ToggleFormButton">Toggle form</button>-->
+
+    <div id="loginBlock">
+        <div class="popupForm">
             <form>
                 <div>
                     <label>Username</label>
@@ -47,11 +48,16 @@
                     <input type="password" />
                 </div>
                 <div>
+                    <input type="checkbox" />
+                    <label>Remember Me?</label>
+                </div>
+                <div>
                     <input type="submit" value="Login" />
                 </div>
             </form>
         </div>
     </div>
+    <button id="toggleItem">Press</button>
 
     <div id="formdiv">
         <form>
@@ -68,6 +74,7 @@
         </form>
     </div>
     <button id="ToggleFormButton">Toggle form</button>
+
     <script src="lib/jquery/dist/jquery.js"></script>
     <script src="js/index.js"></script>
 </body>
